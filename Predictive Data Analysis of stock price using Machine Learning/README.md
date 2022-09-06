@@ -16,17 +16,18 @@ These instructions will get you a copy of the project up and running on your loc
 The things you need before installing the software.
 
 * You need python 3.6 in your system
+* You need Jupyter Notebook in your system
 
 ### Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 
 ```
-$ Clone the repository git clone https://github.com/ahujajitesh63/Library-Machine-Learning.git
-$ Run cd Library-Machine-Learning
-$ Run cd Predictive Data Analysis of stock price using Machine Learning
-$ Open and Execute Jupyter Notebook: Notebook - Machine Learning - GradientBoostingClassifier - Predict change in price of a stock using twitter sentiment.ipynb
-
+$ git clone https://github.com/ahujajitesh63/Library-Machine-Learning.git
+$ cd Library-Machine-Learning
+$ cd Predictive Data Analysis of stock price using Machine Learning
+$ python -m notebook
 ```
+* Click and Run the Notebook: Notebook - Machine Learning - GradientBoostingClassifier - Predict change in price of a stock using twitter sentiment.ipynb
 
 
