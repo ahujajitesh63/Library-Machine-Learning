@@ -33,10 +33,10 @@ $ python -m notebook
 
 ### Output
 * Result - Prediction model accuracy score
-<img src="/Predictive Data Analysis of stock price using Machine Learning/ML result.png" alt="Employee data" title="Employee Data title">
+<img src="/Predictive Data Analysis of stock price using Machine Learning/ML result.png" alt="data" title="Data title">
 
 * Result - Confusion-matrix
-<img src="/Predictive Data Analysis of stock price using Machine Learning/ML result 1.png" alt="Employee data" title="Employee Data title">
+<img src="/Predictive Data Analysis of stock price using Machine Learning/ML result 1.png" alt="data" title="Data title">
 
 
 
